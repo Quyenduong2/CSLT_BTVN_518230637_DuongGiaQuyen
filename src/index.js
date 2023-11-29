@@ -1,1 +1,0 @@
-confirm('hello VN')
